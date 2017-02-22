@@ -6,7 +6,8 @@ import AjaePercentage from './AjaePercentage';
 const styles = {
     container: {
         width: "100%",
-        height: "100vh"
+        height: "100vh",
+        paddingTop: "100px"
     },
     title: {
         width: "100%",
