@@ -3,9 +3,9 @@ import classNames from 'classnames';
 
 const styles = {
     container: {
-        padding: "20px",
         textAlign: 'center',
-        whiteSpace: "pre"
+        whiteSpace: "pre",
+        padding: "20px"
     }
 };
 

@@ -11,7 +11,6 @@ const styles = {
     },
     title: {
         width: "100%",
-        padding: "20px",
         textAlign: "center"
     },
     centerAlign: {
@@ -23,7 +22,7 @@ const styles = {
         fontFamily: "baemin"
     },
     textLarge: {
-        fontSize: "70px",
+        fontSize: "8vh",
         color: "#ffffff"
     },
 };

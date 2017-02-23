@@ -2,9 +2,8 @@ import React, {Component} from 'react';
 
 const styles = {
     container: {
-        margin: "20px",
         width: "100%",
-        height: "200px"
+        height: "15vh"
     }
 };
 

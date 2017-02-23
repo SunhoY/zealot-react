@@ -4,8 +4,8 @@ const styles = {
     container: {
         padding: "20px",
         textAlign: "center",
-        height: "160px",
-        fontSize: "70px",
+        height: "15vh",
+        fontSize: "5vh",
         fontFamily: "baemin",
         color: "#ffffff",
     }
