@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import AjaeIndicatingImage from './AjaeIndicatingImage';
 import AjaeIndicatingText from './AjaeIndicatingText';
 import AjaePercentage from './AjaePercentage';
+import PlayStoreBadge from './PlayStoreBadge';
 
 const styles = {
     container: {
@@ -38,6 +39,7 @@ class Landing extends Component {
                 <AjaePercentage percentage={this.props.percentage} nickName={this.props.nickName} />
                 <AjaeIndicatingImage percentage={this.props.percentage}/>
                 <AjaeIndicatingText percentage={this.props.percentage} />
+                <PlayStoreBadge />
             </div>
         );
     }
