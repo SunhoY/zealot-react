@@ -9,7 +9,7 @@ query.split("&").map((value)=>{
     let keyValue = value.split("=");
     queryMap[keyValue[0]] = keyValue[1];
 
-    return;
+    return null;
 });
 
 ReactDOM.render(
