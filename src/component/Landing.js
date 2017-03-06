@@ -8,7 +8,7 @@ const styles = {
     container: {
         width: "100%",
         height: "100vh",
-        paddingTop: "100px"
+        paddingTop: "4vh"
     },
     title: {
         width: "100%",
