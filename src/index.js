@@ -8,6 +8,8 @@ let queryMap = {};
 query.split("&").map((value)=>{
     let keyValue = value.split("=");
     queryMap[keyValue[0]] = keyValue[1];
+
+    return;
 });
 
 ReactDOM.render(
